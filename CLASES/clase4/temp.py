@@ -1,3 +1,4 @@
+# Se importa el modulo sys para obtener informacion del sistema
 import sys
 # print("-----Numero Enteros-----")
 # print(f"Tamaño de un entero: {sys.getsizeof(0)} bytes")
