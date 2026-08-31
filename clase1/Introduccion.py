@@ -1,10 +1,11 @@
-# print("Hola")
+#Introduccion a Python
+# # print("Hola")
 
-# Tipos de Datos
+# # Tipos de Datos
 
-#x = 10 
-# y = 10.5
-# x = "5"
+# #x = 10 
+# # y = 10.5
+# # x = "5"
 
 
 # name = "Isvi"
